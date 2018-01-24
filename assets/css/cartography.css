@@ -29,8 +29,9 @@ li a:hover:not(.active) {
 
 body {
     padding: 20px;
-    background: url(../images/home.jpg) left top no-repeat;
     background-size: cover;
+    background: url(../images/home.jpg) left top no-repeat;
+    
 }
 
 h1 {
@@ -68,8 +69,8 @@ h1 {
   }
   
   #pin-1 {
-    top:35%;
-    left:45%;
+    top:35.6%;
+    left:46.1%;
   }
   
   .box:hover > .pin-text {

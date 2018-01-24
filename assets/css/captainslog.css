@@ -28,10 +28,12 @@ li a:hover:not(.active) {
 
 
 body {
-    padding: 20px;
-    background: url(../images/home.jpg) left top no-repeat;
     background-size: cover;
+    background: url(../images/home.jpg) left top no-repeat;
+    padding:20px;
 }
+    
+   
 
 .container {
     background: url(../images/parchment2.jpg);
