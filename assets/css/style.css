@@ -1,0 +1,45 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: url(../images/parchment2.jpg);
+    border-radius:25px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    font-family: 'Supermercado One', cursive;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: rgb(196, 170, 55);
+    color: black;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+body {
+    padding: 20px;
+    background: url(../images/home.jpg) left top no-repeat;
+    background-size: cover;
+}
+
+.welcome {
+    text-align:center;
+    color:black;
+}
+
+h1, h3 {
+    font-family: 'Supermercado One', cursive;
+}
