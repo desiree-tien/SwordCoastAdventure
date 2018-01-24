@@ -35,16 +35,19 @@ body {
     background-size: cover;
 }
 
+
+
 h1 {
     text-align: center;
     font-family: 'Supermercado One', cursive;
 }
 .shelf {
     margin:auto;
+    text-align: center;
    /* background: url(../images/shelf.png); */
 }
 
 img {
-    margin:auto;
-    width:100%;
+    width:50%;
+    border-radius:50px;
 }
