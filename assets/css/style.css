@@ -26,9 +26,6 @@ li a:hover:not(.active) {
     color: black;
 }
 
-.active {
-    background-color: #4CAF50;
-}
 
 body {
     background-size: cover;

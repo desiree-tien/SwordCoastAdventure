@@ -32,8 +32,9 @@ li a:hover:not(.active) {
 
 body {
     padding: 20px;
-    background: url(../images/home.jpg) left top no-repeat;
     background-size: cover;
+    background: url(../images/home.jpg) left top no-repeat;
+    
 }
 
 
@@ -50,6 +51,7 @@ h1 {
 
 img {
     display: block;
+    width:40%;
     margin-left: auto;
     margin-right: auto;
     border-radius:50px;
