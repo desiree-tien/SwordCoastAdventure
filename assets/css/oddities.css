@@ -42,6 +42,7 @@ body {
 h1 {
     text-align: center;
     font-family: 'Supermercado One', cursive;
+    color:black;
 }
 .shelf {
     margin:auto;

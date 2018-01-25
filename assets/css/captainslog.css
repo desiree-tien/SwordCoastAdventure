@@ -30,13 +30,13 @@ li a:hover:not(.active) {
 body {
     background-size: cover;
     background: url(../images/home.jpg) left top no-repeat;
-    padding:20px;
 }
     
    
 
 .container {
     background: url(../images/parchment2.jpg);
+    padding:15px;
     opacity: 0.9;
     border-radius:25px;
 }
