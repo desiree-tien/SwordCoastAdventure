@@ -48,7 +48,7 @@ h1 {
 
 table {
     border-collapse:separate;
-    border:solid  rgb(196, 170, 55); 1px;
+    border:solid  rgb(196, 170, 55);
     border-radius:25px;
     -moz-border-radius:10px;
     padding:12px;
