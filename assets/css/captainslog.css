@@ -1,4 +1,4 @@
-ul {
+.navbar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -8,11 +8,8 @@ ul {
     border-radius:25px;
 }
 
-li {
-    float: left;
-}
 
-li a {
+.navbar a {
     display: block;
     color: black;
     font-family: 'Supermercado One', cursive;
@@ -21,7 +18,7 @@ li a {
     text-decoration: none;
 }
 
-li a:hover:not(.active) {
+.navbar a:hover:not(.active) {
     background-color: rgb(196, 170, 55);
     color: black;
 }
